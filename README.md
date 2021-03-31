@@ -5,10 +5,10 @@
 #Exemplo de Cadastro de Pessoas 
 #
 # Java
-# Estrutura beck-end
+ Estrutura beck-end
 #
 # React Front-end
-# Visualizar cadastro e atualizar se a pessoa já foi vacinada
+ Visualizar cadastro e atualizar se a pessoa já foi vacinada
 # 
 # React Native Mobile
-# Faz o cadastro para se vacinar
+ Faz o cadastro para se vacinar
