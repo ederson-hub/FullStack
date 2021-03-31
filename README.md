@@ -1,8 +1,8 @@
 # FullStack
 
-#App para cadastro de pessoas para se vacinar
+App para cadastro de pessoas para se vacinar
 
-#Exemplo de Cadastro de Pessoas 
+Exemplo de Cadastro de Pessoas 
 #
 # Java
  Estrutura beck-end
